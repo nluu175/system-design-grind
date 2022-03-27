@@ -19,4 +19,10 @@ I realized that I have to do system design interview as well (▀̿Ĺ̯▀̿ ̿)
 
 
 ## Progress
-To be updated ...
+
+- Aim to take the long timeline.
+
+| Topics | Date | Status |
+| ----------- | ----------- | ----------- |
+| Scalability Lecture (Havard) | Mar 27 | Done (3 hours) | 
+
